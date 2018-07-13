@@ -1,4 +1,5 @@
-# Sell Any Car Website  designed using laravel framework.
+# My First web application in LaravelFramework named SellAnyCar
+
 
 Project Description
 Sell Any Car is a project that offers new, safe and convenient way of selling your car throughout Nepal.
