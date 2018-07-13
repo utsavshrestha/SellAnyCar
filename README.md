@@ -17,6 +17,13 @@ buying services.
 - User can discuss on different topic on online forum
 - User can give feedback on how they fell about the website
 - User can Update their info
+- User can view the help tab so learn how to use the website. The help file is not completed will be done soon
+- Admin is provided with seperate  emai id: shresthau96@gmail.com password:password
+- Admin can view the user details.
+- Admin can add, update and delete the events
+- Admin can view the cars detail added by the user also who added it.
+- Admin can view the feedback given by the user
+
 
 
 
