@@ -32,5 +32,5 @@ https://github.com/utsavshrestha/SellAnyCar.git
 - php artisan key:generate
 - php artisan migrate
 
-#Launch web server
-php artisan serve
+# Launch web server
+- php artisan serve
